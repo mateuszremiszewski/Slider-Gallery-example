@@ -1,6 +1,8 @@
 # Slider-Gallery-example
 Experimenting with events for the slider / jquery
 
+https://mateuszremiszewski.github.io/Slider-Gallery-example/
+
 ## Tasks
 
 1. Click event
